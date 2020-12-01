@@ -27,7 +27,7 @@ Recriando a interface do principal site de streaming mundial utilizando tecnolog
 
 
 ### Passo a Passo 
-![](https://github.com/AnGaIs/Netflix-Clone/blob/master/netflix-demo.gif?raw=true)
+![](https://github.com/AnGaIs/DioNetflix/blob/main/netflix-demo.gif)
 
 
 
